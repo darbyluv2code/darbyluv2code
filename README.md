@@ -4,9 +4,9 @@
 | Course Title                                              | GitHub Repository Link                                                                                     |
 |-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Java Programming Introduction for Beginners               | [java-programming-introduction-for-beginners](https://github.com/darbyluv2code/java-programming-introduction-for-beginners)         |
-| Spring Boot 3 and JPA/Hibernate for Beginners             | [spring-boot-3-spring-6-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners)     |
+| Spring Boot 3, Spring 6 and Hibernate for Beginners       | [spring-boot-3-spring-6-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners)     |
 | Spring Boot Unit Testing                                  | [spring-boot-unit-testing](https://github.com/darbyluv2code/spring-boot-unit-testing)                                                         |
-| Deploy Spring Boot 3 Apps Amazon Cloud (AWS)              | [deploy-spring-boot-3-apps-on-aws](https://github.com/darbyluv2code/deploy-spring-boot-3-apps-on-aws)                                         |
+| Deploy Spring Boot 3 Apps on AWS (Amazon Cloud)           | [deploy-spring-boot-3-apps-on-aws](https://github.com/darbyluv2code/deploy-spring-boot-3-apps-on-aws)                                         |
 | Hibernate Advanced Development Techniques                 | [hibernate-advanced-development-techniques](https://github.com/darbyluv2code/hibernate-advanced-development-techniques)                       |
 | Spring Boot 3 Project - Build a Job Portal Web Application| [spring-boot-3-project-job-portal-web-app](https://github.com/darbyluv2code/spring-boot-3-project-job-portal-web-app)                         |
 | Full Stack: Angular and Spring Boot                       | [fullstack-angular-and-springboot](https://github.com/darbyluv2code/fullstack-angular-and-springboot)                                         |
