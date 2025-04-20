@@ -9,6 +9,7 @@
 | Deploy Spring Boot 3 Apps on AWS (Amazon Cloud)           | [deploy-spring-boot-3-apps-on-aws](https://github.com/darbyluv2code/deploy-spring-boot-3-apps-on-aws)                                         |
 | Hibernate Advanced Development Techniques                 | [hibernate-advanced-development-techniques](https://github.com/darbyluv2code/hibernate-advanced-development-techniques)                       |
 | Spring Boot 3 Project - Build a Job Portal Web Application| [spring-boot-3-project-job-portal-web-app](https://github.com/darbyluv2code/spring-boot-3-project-job-portal-web-app)                         |
+| Spring Boot REST APIs                                     | [spring-boot-rest-apis](https://github.com/darbyluv2code/spring-boot-rest-apis)                                                               |
 | Full Stack: Angular and Spring Boot                       | [fullstack-angular-and-springboot](https://github.com/darbyluv2code/fullstack-angular-and-springboot)                                         |
 | Full Stack: React and Spring Boot                         | [fullstack-react-and-springboot](https://github.com/darbyluv2code/fullstack-react-and-springboot)                                             |
   
