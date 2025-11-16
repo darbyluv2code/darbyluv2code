@@ -65,7 +65,9 @@ You may not republish, redistribute, or share any course materials, including bu
 
 You may not use these materials to create tutorials, videos, articles, online courses, training content, or any other educational products.
 
-See the [LICENSE](java-programming-introduction-for-beginners/LICENSE) file for full terms and restrictions.
+See the [LICENSE]([java-programming-introduction-for-beginners/LICENSE](https://github.com/darbyluv2code/java-programming-introduction-for-beginners/blob/main/LICENSE)) file for full terms and restrictions.
+
+
 
 For permission requests, contact copyright@luv2code.com 
 
