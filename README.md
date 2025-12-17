@@ -4,7 +4,7 @@
 | Course Title                                              | GitHub Repository Link                                                                                     |
 |-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Java Programming Introduction for Beginners               | [java-programming-introduction-for-beginners](https://github.com/darbyluv2code/java-programming-introduction-for-beginners)         |
-| Spring Boot 3, Spring 6 and Hibernate for Beginners       | [spring-boot-3-spring-6-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners)     |
+| Spring Boot 4, Spring 7 and Hibernate for Beginners       | [spring-boot-3-spring-6-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-4-spring-7-hibernate-for-beginners)     |
 | Master Java Design Patterns       | [master-java-design-patterns](https://github.com/darbyluv2code/master-java-design-patterns)     |
 | Spring Boot Unit Testing                                  | [spring-boot-unit-testing](https://github.com/darbyluv2code/spring-boot-unit-testing)                                                         |
 | Deploy Spring Boot 3 Apps on AWS (Amazon Cloud)           | [deploy-spring-boot-3-apps-on-aws](https://github.com/darbyluv2code/deploy-spring-boot-3-apps-on-aws)                                         |
@@ -23,7 +23,7 @@ I'd recommend the following road map:
 
 ### Core Courses
 1. [Java Programming Introduction for Beginners](https://www.udemy.com/course/java-intro-for-beginners/?referralCode=325F0EA33466DA1D8710)
-1. [Spring Boot 3, Spring 6 and Hibernate for Beginners](http://www.luv2code.com/spring-github)
+1. [Spring Boot 4, Spring 7 and Hibernate for Beginners](http://www.luv2code.com/spring-github)
 1. [Spring Boot Unit Testing](https://www.udemy.com/course/spring-boot-unit-testing/?referralCode=4184DE360D78A70932EE)
 1. [Deploy Spring Boot 3 Apps on AWS (Amazon Cloud)](https://www.udemy.com/course/deploy-spring-boot-3-apps-to-aws/?referralCode=DCE8981B59C70BA6BDBF)
 1. [Hibernate: Advanced Development Techniques](https://www.udemy.com/course/hibernate-tutorial-advanced/?referralCode=6FB9E2BA9AF54A4C9E69)
