@@ -1,1 +1,161 @@
+################################################################################
+# Source code repository for luv2code training courses.
+# https://www.luv2code.com
+################################################################################
+
+################################################################################
+# OS-SPECIFIC FILES
+################################################################################
+
+########################################
+# macOS
+########################################
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+*.icloud
+
+
+########################################
+# Windows
+########################################
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.stackdump
+*.lnk
+
+
+########################################
+# Linux
+########################################
+.Trash-*
+.cache/
+.config/
+.local/
+*.directory
+*~
+*.tmp
+lost+found/
+
+
+################################################################################
+# JAVA & BUILD ARTIFACTS
+################################################################################
+
+# Compiled output
+*.class
+*.ctxt
+*.log
+
+# Java packaged archives (avoid committing builds)
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+
+
+################################################################################
+# MAVEN
+################################################################################
+
+# Build output
+target/
+
+# Maven internal metadata
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Build number & wrapper
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+
+################################################################################
+# INTELLIJ IDEA
+################################################################################
+
+.idea/
+*.iml
+*.iws
+*.ipr
+
+out/
+
+
+################################################################################
+# ECLIPSE
+################################################################################
+
+.metadata/
+.project
+.classpath
+.settings/
+.loadpath
+.recommenders/
+
+bin/
+tmp/
+
+*.tmp
+*.bak
+*.swp
+
+
+################################################################################
+# VISUAL STUDIO CODE
+################################################################################
+
+.vscode/
+.history/
+*.vsix
+
+
+################################################################################
+# CLAUDE CODE
+################################################################################
+
 .claude/
+
+
+################################################################################
+# GENERIC BUILD & TEMP
+################################################################################
+
+build/
+dist/
+
+*.swp
+*.swo
+*.bak
+*.tmp
+*~.nib
