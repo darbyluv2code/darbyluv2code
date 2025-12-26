@@ -7,7 +7,7 @@
 | Spring Boot 4, Spring 7 and Hibernate for Beginners       | [spring-boot-4-spring-7-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-4-spring-7-hibernate-for-beginners)     |
 | Master Java Design Patterns       | [master-java-design-patterns](https://github.com/darbyluv2code/master-java-design-patterns)     |
 | Spring Boot Unit Testing                                  | [spring-boot-unit-testing](https://github.com/darbyluv2code/spring-boot-unit-testing)                                                         |
-| Deploy Spring Boot Applications on AWS           | [deploy-spring-boot-3-apps-on-aws](https://github.com/darbyluv2code/deploy-spring-boot-3-apps-on-aws)                                         |
+| Deploy Spring Boot 4 Applications on AWS           | [deploy-spring-boot-3-apps-on-aws](https://github.com/darbyluv2code/deploy-spring-boot-apps-on-aws)                                         |
 | Hibernate Advanced Development Techniques                 | [hibernate-advanced-development-techniques](https://github.com/darbyluv2code/hibernate-advanced-development-techniques)                       |
 | Spring Boot Project - Build a Job Portal Web Application| [spring-boot-3-project-job-portal-web-app](https://github.com/darbyluv2code/spring-boot-3-project-job-portal-web-app)                         |
 | Spring Boot REST APIs                                     | [spring-boot-rest-apis](https://github.com/darbyluv2code/spring-boot-rest-apis)                                                               |
@@ -25,7 +25,7 @@ I'd recommend the following road map:
 1. [Java Programming Introduction for Beginners](https://www.udemy.com/course/java-intro-for-beginners/?referralCode=325F0EA33466DA1D8710)
 1. [Spring Boot 4, Spring 7 and Hibernate for Beginners](http://www.luv2code.com/spring-github)
 1. [Spring Boot Unit Testing](https://www.udemy.com/course/spring-boot-unit-testing/?referralCode=4184DE360D78A70932EE)
-1. [Deploy Spring Boot Applications on AWS](https://www.udemy.com/course/deploy-spring-boot-3-apps-to-aws/?referralCode=DCE8981B59C70BA6BDBF)
+1. [Deploy Spring Boot 4 Applications on AWS](https://www.udemy.com/course/deploy-spring-boot-3-apps-to-aws/?referralCode=DCE8981B59C70BA6BDBF)
 1. [Hibernate: Advanced Development Techniques](https://www.udemy.com/course/hibernate-tutorial-advanced/?referralCode=6FB9E2BA9AF54A4C9E69)
 1. [Master Java Design Patterns](https://www.luv2code.com/master-java-design-patterns-github)
 
