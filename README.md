@@ -7,7 +7,7 @@
 | Spring Boot 4, Spring 7 and Hibernate for Beginners       | [spring-boot-4-spring-7-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-4-spring-7-hibernate-for-beginners)     |
 | Master Java Design Patterns       | [master-java-design-patterns](https://github.com/darbyluv2code/master-java-design-patterns)     |
 | Spring Boot Unit Testing                                  | [spring-boot-unit-testing](https://github.com/darbyluv2code/spring-boot-unit-testing)                                                         |
-| Deploy Spring Boot 4 Applications on AWS           | [deploy-spring-boot-3-apps-on-aws](https://github.com/darbyluv2code/deploy-spring-boot-apps-on-aws)                                         |
+| Deploy Spring Boot 4 Applications on AWS           | [deploy-spring-boot-apps-on-aws](https://github.com/darbyluv2code/deploy-spring-boot-apps-on-aws)                                         |
 | Hibernate Advanced Development Techniques                 | [hibernate-advanced-development-techniques](https://github.com/darbyluv2code/hibernate-advanced-development-techniques)                       |
 | Spring Boot Project - Build a Job Portal Web Application| [spring-boot-project-job-portal-web-app](https://github.com/darbyluv2code/spring-boot-project-job-portal-web-app)                         |
 | Spring Boot REST APIs                                     | [spring-boot-rest-apis](https://github.com/darbyluv2code/spring-boot-rest-apis)                                                               |
