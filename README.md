@@ -9,7 +9,7 @@
 | Spring Boot Unit Testing                                  | [spring-boot-unit-testing](https://github.com/darbyluv2code/spring-boot-unit-testing)                                                         |
 | Deploy Spring Boot 4 Applications on AWS           | [deploy-spring-boot-apps-on-aws](https://github.com/darbyluv2code/deploy-spring-boot-apps-on-aws)                                         |
 | Hibernate Advanced Development Techniques                 | [hibernate-advanced-development-techniques](https://github.com/darbyluv2code/hibernate-advanced-development-techniques)                       |
-| Spring Boot Project - Build a Job Portal Web Application| [spring-boot-project-job-portal-web-app](https://github.com/darbyluv2code/spring-boot-project-job-portal-web-app)                         |
+| Spring Boot 4 Project - Build a Job Portal Web Application| [spring-boot-project-job-portal-web-app](https://github.com/darbyluv2code/spring-boot-project-job-portal-web-app)                         |
 | Spring Boot REST APIs                                     | [spring-boot-rest-apis](https://github.com/darbyluv2code/spring-boot-rest-apis)                                                               |
 | Full Stack: Angular and Spring Boot                       | [fullstack-angular-and-springboot](https://github.com/darbyluv2code/fullstack-angular-and-springboot)                                         |
 | Full Stack: React and Spring Boot                         | [fullstack-react-and-springboot](https://github.com/darbyluv2code/fullstack-react-and-springboot)                                             |
@@ -31,7 +31,7 @@ I'd recommend the following road map:
 
 ### Project Course: Spring Boot, Spring MVC and Thymeleaf
 For end-to-end project with Spring Boot, Spring MVC and Thymeleaf:
-1. [Spring Boot Project - Build a Job Portal Web Application](https://www.udemy.com/course/spring-boot-project-job-portal-web-app/?referralCode=BB9301596150194B61E2)
+1. [Spring Boot 4 Project - Build a Job Portal Web Application](https://www.udemy.com/course/spring-boot-project-job-portal-web-app/?referralCode=BB9301596150194B61E2)
 
 ### REST API Project Course: Spring Boot REST APIs
 This is an intermediate level course that includes four REST API projects:
