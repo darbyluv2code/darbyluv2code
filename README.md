@@ -10,7 +10,7 @@
 | Deploy Spring Boot 4 Applications on AWS           | [deploy-spring-boot-apps-on-aws](https://github.com/darbyluv2code/deploy-spring-boot-apps-on-aws)                                         |
 | Hibernate Advanced Development Techniques                 | [hibernate-advanced-development-techniques](https://github.com/darbyluv2code/hibernate-advanced-development-techniques)                       |
 | Spring Boot 4 Project - Build a Job Portal Web Application| [spring-boot-project-job-portal-web-app](https://github.com/darbyluv2code/spring-boot-project-job-portal-web-app)                         |
-| Spring Boot 4 REST APIs                                     | [spring-boot-rest-apis](https://github.com/darbyluv2code/spring-boot-rest-apis)                                                               |
+| Spring Boot 4 REST APIs: Building Modern REST APIs                                     | [spring-boot-rest-apis](https://github.com/darbyluv2code/spring-boot-rest-apis)                                                               |
 | Full Stack: Angular and Spring Boot                       | [fullstack-angular-and-springboot](https://github.com/darbyluv2code/fullstack-angular-and-springboot)                                         |
 | Full Stack: React and Spring Boot                         | [fullstack-react-and-springboot](https://github.com/darbyluv2code/fullstack-react-and-springboot)                                             |
   
@@ -33,9 +33,9 @@ I'd recommend the following road map:
 For end-to-end project with Spring Boot, Spring MVC and Thymeleaf:
 1. [Spring Boot 4 Project - Build a Job Portal Web Application](https://www.udemy.com/course/spring-boot-project-job-portal-web-app/?referralCode=BB9301596150194B61E2)
 
-### REST API Project Course: Spring Boot 4 REST APIs
+### REST API Project Course: Spring Boot 4 REST APIs: Building Modern REST APIs
 This is an intermediate level course that includes four REST API projects:
-1. [Spring Boot 4 REST APIs - Building Modern APIs with Spring Boot](https://www.udemy.com/course/spring-boot-rest-apis/)
+1. [Spring Boot 4 REST APIs: Building Modern REST APIs - Building Modern APIs with Spring Boot](https://www.udemy.com/course/spring-boot-rest-apis/)
    
 ### Project Courses: Full Stack
 For full stack projects, you have the choice of either Angular or React. Pick the one that you like the best.
