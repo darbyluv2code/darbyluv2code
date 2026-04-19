@@ -13,6 +13,7 @@
 | Spring Boot 4 REST APIs: Building Modern REST APIs                                     | [spring-boot-rest-apis](https://github.com/darbyluv2code/spring-boot-rest-apis)                                                               |
 | Full Stack: Angular and Spring Boot                       | [fullstack-angular-and-springboot](https://github.com/darbyluv2code/fullstack-angular-and-springboot)                                         |
 | Full Stack: React and Spring Boot                         | [fullstack-react-and-springboot](https://github.com/darbyluv2code/fullstack-react-and-springboot)                                             |
+| Java Playwright: Master Web Test Automation               | [java-playwright](https://github.com/darbyluv2code/java-playwright)                                                                           |
   
 &#8287;
 ## Spring Boot Road Map - Learning Path
@@ -41,6 +42,10 @@ This is an intermediate level course that includes four REST API projects:
 For full stack projects, you have the choice of either Angular or React. Pick the one that you like the best.
 1. [Full Stack: Angular and Spring Boot](https://www.udemy.com/course/full-stack-angular-spring-boot-tutorial/?referralCode=2264F90C65A86316BB6B)
 1. [Full Stack: React and Spring Boot](https://www.udemy.com/course/full-stack-react-and-java-spring-boot-the-developer-guide/?referralCode=4325FA579FD3D313E28D)
+
+### Java Web Test Automation
+Learn how to automate web browser testing using Java and test automation frameworks:
+1. [Java Playwright: Master Web Test Automation](https://www.luv2code.com/java-playwright-github)
 
 &#8287;
 ## More luv2code Courses
