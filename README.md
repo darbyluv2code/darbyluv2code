@@ -14,6 +14,7 @@
 | Full Stack: Angular and Spring Boot                       | [fullstack-angular-and-springboot](https://github.com/darbyluv2code/fullstack-angular-and-springboot)                                         |
 | Full Stack: React and Spring Boot                         | [fullstack-react-and-springboot](https://github.com/darbyluv2code/fullstack-react-and-springboot)                                             |
 | Java Playwright: Master Web Test Automation               | [java-playwright](https://github.com/darbyluv2code/java-playwright)                                                                           |
+| Java Selenium: Master Web Test Automation               | [java-selenium](https://github.com/darbyluv2code/java-selenium)                                                                           |
   
 &#8287;
 ## Spring Boot Road Map - Learning Path
@@ -46,6 +47,7 @@ For full stack projects, you have the choice of either Angular or React. Pick th
 ### Java Web Test Automation
 Learn how to automate web browser testing using Java and test automation frameworks:
 1. [Java Playwright: Master Web Test Automation](https://www.luv2code.com/java-playwright-github)
+1. [Java Selenium: Master Web Test Automation](https://www.luv2code.com/java-selenium-github)
 
 &#8287;
 ## More luv2code Courses
